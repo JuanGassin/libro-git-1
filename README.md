@@ -1,1 +1,1 @@
-# ligro-git
+# linro-git
